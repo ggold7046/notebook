@@ -16,9 +16,9 @@ We maintain the **two most recently released major versions of Jupyter Notebook*
 
 The Jupyter Notebook project is currently undertaking a transition to a more modern code base built from the ground-up using JupyterLab components and extensions.
 
-There is new stream of work which was submitted and then accepted as a Jupyter Enhancement Proposal (JEP) as part of the next version (v7): https://jupyter.org/enhancement-proposals/79-notebook-v7/notebook-v7.html
+There is a new  stream of work that was submitted and then accepted as a Jupyter Enhancement Proposal (JEP) as part of the next version (v7): https://jupyter.org/enhancement-proposals/79-notebook-v7/notebook-v7.html
 
-There is also a plan to continue maintaining Notebook v6 with bug and security fixes only, to ease the transition to Notebook v7: https://github.com/jupyter/notebook-team-compass/issues/5#issuecomment-1085254000
+There is also a plan to continue maintaining Notebook v6 with bug and security fixes only to ease the transition to Notebook v7: https://github.com/jupyter/notebook-team-compass/issues/5#issuecomment-1085254000
 
 ### Notebook v7
 
